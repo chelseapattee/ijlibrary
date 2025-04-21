@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	<path d="M331,162.2c-20.7,0-37.5,16.8-37.5,37.5c0,13.8,7.6,25.8,18.7,32.3v211.4h37.5V232c11.2-6.5,18.8-18.5,18.8-32.3
+		C368.5,179,351.7,162.2,331,162.2z"/>
+	<ellipse cx="331" cy="106" rx="18.7" ry="37.5"/>
+	<ellipse transform="matrix(-0.5 -0.866 0.866 -0.5 162.0102 593.4086)" cx="252.3" cy="249.9" rx="18.8" ry="37.5"/>
+	<ellipse transform="matrix(0.5 -0.866 0.866 0.5 -11.5946 479.7699)" cx="409.7" cy="249.9" rx="18.8" ry="37.5"/>
+	<polygon points="68.5,331 87.3,331 87.3,443.5 143.5,443.5 143.5,387.3 181,387.3 181,443.5 237.3,443.5 237.3,331 256,331 
+		162.3,256 	"/>
+</g>
+</svg>

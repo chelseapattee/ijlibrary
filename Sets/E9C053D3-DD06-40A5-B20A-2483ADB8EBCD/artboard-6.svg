@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="615px" height="520px" viewBox="0 0 615 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 6</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="PLACEHOLDERS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-6">
+            <g id="Group-10">
+                <rect id="Rectangle-186" fill="#26A69A" x="0" y="0" width="615" height="615"></rect>
+                <g id="Briefcase_2_" transform="translate(127.000000, 89.000000)">
+                    <g id="Group">
+                        <g id="Briefcase" transform="translate(0.000000, 60.000000)" fill="#F3643F">
+                            <path d="M340,0 L20,0 C9,0 0,9 0,20 L0,220 C0,231 9,240 20,240 L340,240 C351,240 360,231 360,220 L360,20 C360,9 351,0 340,0 L340,0 Z" id="Shape"></path>
+                        </g>
+                        <g id="Handle" transform="translate(100.000000, 0.000000)" fill="#344E5F">
+                            <path d="M140,0 L20,0 C9,0 0,9 0,20 L0,60 L40,60 L40,40 L120,40 L120,60 L160,60 L160,20 C160,9 151,0 140,0 L140,0 Z M100,120 L60,120 C49,120 40,129 40,140 L40,160 C40,171 49,180 60,180 L100,180 C111,180 120,171 120,160 L120,140 C120,129 111,120 100,120 L100,120 Z M100,160 L60,160 L60,140 L100,140 L100,160 L100,160 Z" id="Shape"></path>
+                        </g>
+                        <g id="Line_3_" opacity="0.251" transform="translate(0.000000, 140.000000)" fill="#344E5F">
+                            <g id="Group">
+                                <path d="M0,20 L160,20 L160,0 L0,0 L0,20 L0,20 Z M200,0 L200,20 L360,20 L360,0 L200,0 L200,0 Z" id="Shape"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

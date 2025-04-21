@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="615px" height="520px" viewBox="0 0 615 520" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48 (47235) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard 8</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="615" height="615"></rect>
+    </defs>
+    <g id="PLACEHOLDERS" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-8">
+            <g id="Group-32" transform="translate(1.000000, 0.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#41A6F5" xlink:href="#path-1"></use>
+                <g id="Group-31" mask="url(#mask-2)">
+                    <g transform="translate(6.000000, 71.000000)">
+                        <path d="M300,600 C465.685425,600 600,465.685425 600,300 C600,134.314575 465.685425,0 300,0 C134.314575,0 0,134.314575 0,300 C0,465.685425 134.314575,600 300,600 Z" id="Oval-15" fill="#2196F3"></path>
+                        <g id="Group" stroke-width="1" fill="none" transform="translate(116.129032, 87.096774)">
+                            <path d="M183.870968,183.870968 C234.665323,183.870968 275.806452,142.729839 275.806452,91.9354839 C275.806452,41.141129 234.665323,0 183.870968,0 C133.076613,0 91.9354839,41.141129 91.9354839,91.9354839 C91.9354839,142.729839 133.076613,183.870968 183.870968,183.870968 L183.870968,183.870968 Z M183.870968,229.83871 C122.504032,229.83871 0,260.637097 0,321.774194 L0,367.741935 L367.741935,367.741935 L367.741935,321.774194 C367.741935,260.637097 245.237903,229.83871 183.870968,229.83871 L183.870968,229.83871 Z" id="Shape" fill="#BBDEFB"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

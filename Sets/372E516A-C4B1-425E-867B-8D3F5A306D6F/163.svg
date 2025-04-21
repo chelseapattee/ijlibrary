@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+<g>
+	<circle cx="256" cy="256" r="93.7"/>
+	<g>
+		<g>
+			<rect x="237.3" y="68.5" width="37.5" height="56.2"/>
+			<rect x="237.3" y="387.2" width="37.5" height="56.2"/>
+		</g>
+		<g>
+			<rect x="387.2" y="237.3" width="56.2" height="37.5"/>
+			<rect x="68.5" y="237.3" width="56.2" height="37.5"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<rect x="117.9" y="99.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -56.6131 136.6692)" width="37.5" height="75"/>
+			<rect x="356.6" y="337.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -155.465 375.3243)" width="37.5" height="75"/>
+		</g>
+		<g>
+			<rect x="117.9" y="337.8" transform="matrix(0.7071 0.7071 -0.7071 0.7071 305.4244 13.2855)" width="37.5" height="75"/>
+			<rect x="356.6" y="99.2" transform="matrix(0.7071 0.7071 -0.7071 0.7071 206.5737 -225.3629)" width="37.5" height="75"/>
+		</g>
+	</g>
+</g>
+</svg>

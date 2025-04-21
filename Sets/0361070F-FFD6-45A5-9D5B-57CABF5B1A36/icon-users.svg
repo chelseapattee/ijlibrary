@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-users</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-users">
+            <g id="Group-31" transform="translate(3.000000, 3.000000)">
+                <path d="M27.5,55 C42.6878306,55 55,42.6878306 55,27.5 C55,12.3121694 42.6878306,0 27.5,0 C12.3121694,0 0,12.3121694 0,27.5 C0,42.6878306 12.3121694,55 27.5,55 Z" id="Oval-15" fill="#2196F3" opacity="0.764109142"></path>
+                <g id="Group" transform="translate(10.000000, 10.625000)" fill="#BBDEFB">
+                    <path d="M17.251959,16.9250986 C22.0178126,16.9250986 25.8779385,13.1381078 25.8779385,8.46254929 C25.8779385,3.78699081 22.0178126,0 17.251959,0 C12.4861053,0 8.62597949,3.78699081 8.62597949,8.46254929 C8.62597949,13.1381078 12.4861053,16.9250986 17.251959,16.9250986 L17.251959,16.9250986 Z M17.251959,21.1563732 C11.4941177,21.1563732 0,23.9913272 0,29.6189225 L0,33.8501972 L34.5039179,33.8501972 L34.5039179,29.6189225 C34.5039179,23.9913272 23.0098003,21.1563732 17.251959,21.1563732 L17.251959,21.1563732 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
